@@ -1,0 +1,6 @@
+{
+  "name": "PothSheba — Road & Public-Space Intelligence",
+  "description": "Pilot prototype for AI-driven IoT road damage and public-space monitoring in Dhaka, supporting vehicle/pole telemetry simulation, citizen reporting, duplicate merging, and priority repair ranking.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": []
+}
